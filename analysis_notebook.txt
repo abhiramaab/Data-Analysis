@@ -1,4 +1,0 @@
-
-# Retail Sales Data Analytics Project
-
-This notebook contains full analysis, modeling, and visualization.
