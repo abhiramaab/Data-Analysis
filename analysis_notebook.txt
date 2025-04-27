@@ -1,0 +1,21 @@
+
+# Retail Sales Data Analytics Project
+
+## 1. Data Cleaning
+- Loaded data
+- Handled missing values (none found)
+- Created 'Sales' feature
+
+## 2. Exploratory Data Analysis
+- Sales by City
+- Top-Selling Products
+
+## 3. Modeling
+- Decision Tree Classifier on Product prediction
+- Linear Regression for Sales forecasting
+
+## 4. SQL Insights
+- Top Cities by Sales
+- Top Products by Quantity Sold
+
+---
