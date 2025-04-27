@@ -1,0 +1,501 @@
+City,Product,Quantity,Price,Order Date,Sales
+Seattle,Tablet,1,921,2023-01-01,921
+New York,Monitor,4,314,2023-01-02,1256
+Seattle,Tablet,3,796,2023-01-03,2388
+San Francisco,Monitor,1,600,2023-01-04,600
+San Francisco,Laptop,2,1145,2023-01-05,2290
+New York,Monitor,2,530,2023-01-06,1060
+Boston,Laptop,1,507,2023-01-07,507
+Boston,Tablet,2,1060,2023-01-08,2120
+Seattle,Tablet,2,747,2023-01-09,1494
+Boston,Laptop,4,923,2023-01-10,3692
+New York,Tablet,3,486,2023-01-11,1458
+Seattle,Tablet,3,322,2023-01-12,966
+New York,Phone,3,420,2023-01-13,1260
+San Francisco,Tablet,3,427,2023-01-14,1281
+Seattle,Tablet,2,970,2023-01-15,1940
+Boston,Tablet,3,505,2023-01-16,1515
+Seattle,Phone,1,1088,2023-01-17,1088
+New York,Phone,4,602,2023-01-18,2408
+San Francisco,Phone,2,1037,2023-01-19,2074
+Boston,Tablet,4,1076,2023-01-20,4304
+San Francisco,Monitor,1,380,2023-01-21,380
+San Francisco,Phone,2,469,2023-01-22,938
+San Francisco,Monitor,4,921,2023-01-23,3684
+San Francisco,Tablet,2,778,2023-01-24,1556
+New York,Monitor,2,901,2023-01-25,1802
+New York,Tablet,3,784,2023-01-26,2352
+Seattle,Phone,3,320,2023-01-27,960
+New York,Monitor,3,735,2023-01-28,2205
+San Francisco,Laptop,4,974,2023-01-29,3896
+Boston,Phone,1,389,2023-01-30,389
+San Francisco,Tablet,1,1025,2023-01-31,1025
+San Francisco,Phone,3,519,2023-02-01,1557
+New York,Monitor,1,972,2023-02-02,972
+Seattle,Tablet,1,1163,2023-02-03,1163
+Seattle,Phone,1,956,2023-02-04,956
+Boston,Tablet,3,435,2023-02-05,1305
+New York,Monitor,3,1094,2023-02-06,3282
+New York,Monitor,2,321,2023-02-07,642
+Boston,Monitor,3,924,2023-02-08,2772
+Seattle,Tablet,1,883,2023-02-09,883
+San Francisco,Tablet,3,695,2023-02-10,2085
+San Francisco,Laptop,2,1106,2023-02-11,2212
+New York,Phone,3,594,2023-02-12,1782
+New York,Monitor,2,1098,2023-02-13,2196
+Boston,Monitor,2,848,2023-02-14,1696
+Boston,Monitor,1,696,2023-02-15,696
+Seattle,Laptop,4,619,2023-02-16,2476
+Boston,Laptop,3,540,2023-02-17,1620
+San Francisco,Phone,4,991,2023-02-18,3964
+Seattle,Tablet,4,542,2023-02-19,2168
+San Francisco,Monitor,3,758,2023-02-20,2274
+Boston,Monitor,3,843,2023-02-21,2529
+San Francisco,Monitor,1,466,2023-02-22,466
+Boston,Laptop,3,731,2023-02-23,2193
+San Francisco,Laptop,1,1172,2023-02-24,1172
+San Francisco,Laptop,3,564,2023-02-25,1692
+New York,Phone,1,781,2023-02-26,781
+Seattle,Phone,1,323,2023-02-27,323
+Boston,Laptop,4,379,2023-02-28,1516
+Seattle,Tablet,1,841,2023-03-01,841
+New York,Laptop,1,610,2023-03-02,610
+Seattle,Laptop,3,1187,2023-03-03,3561
+Seattle,Monitor,4,680,2023-03-04,2720
+Seattle,Tablet,2,381,2023-03-05,762
+San Francisco,Monitor,3,869,2023-03-06,2607
+New York,Monitor,4,308,2023-03-07,1232
+Boston,Monitor,4,1143,2023-03-08,4572
+Seattle,Phone,3,1067,2023-03-09,3201
+New York,Monitor,4,810,2023-03-10,3240
+San Francisco,Laptop,2,916,2023-03-11,1832
+New York,Tablet,1,709,2023-03-12,709
+New York,Tablet,4,857,2023-03-13,3428
+San Francisco,Phone,1,354,2023-03-14,354
+San Francisco,Phone,2,643,2023-03-15,1286
+Boston,Monitor,2,1187,2023-03-16,2374
+Boston,Monitor,1,409,2023-03-17,409
+Boston,Phone,3,808,2023-03-18,2424
+San Francisco,Tablet,2,917,2023-03-19,1834
+Boston,Tablet,4,457,2023-03-20,1828
+Seattle,Tablet,4,573,2023-03-21,2292
+New York,Phone,3,920,2023-03-22,2760
+Boston,Tablet,4,1180,2023-03-23,4720
+Boston,Phone,1,1108,2023-03-24,1108
+Seattle,Monitor,4,518,2023-03-25,2072
+Seattle,Laptop,4,1089,2023-03-26,4356
+New York,Laptop,4,1043,2023-03-27,4172
+Seattle,Tablet,1,738,2023-03-28,738
+Seattle,Phone,2,603,2023-03-29,1206
+San Francisco,Monitor,4,819,2023-03-30,3276
+San Francisco,Tablet,3,682,2023-03-31,2046
+Seattle,Monitor,3,999,2023-04-01,2997
+San Francisco,Laptop,1,1197,2023-04-02,1197
+New York,Monitor,4,325,2023-04-03,1300
+New York,Laptop,1,489,2023-04-04,489
+Seattle,Laptop,2,375,2023-04-05,750
+New York,Tablet,2,1080,2023-04-06,2160
+San Francisco,Laptop,3,1040,2023-04-07,3120
+Boston,Phone,3,1053,2023-04-08,3159
+Seattle,Tablet,3,860,2023-04-09,2580
+San Francisco,Monitor,4,669,2023-04-10,2676
+Boston,Monitor,4,1082,2023-04-11,4328
+San Francisco,Monitor,1,1090,2023-04-12,1090
+San Francisco,Phone,4,501,2023-04-13,2004
+New York,Tablet,1,884,2023-04-14,884
+New York,Phone,3,1098,2023-04-15,3294
+Boston,Monitor,4,1018,2023-04-16,4072
+Boston,Monitor,1,566,2023-04-17,566
+Seattle,Phone,4,470,2023-04-18,1880
+New York,Monitor,3,984,2023-04-19,2952
+Seattle,Tablet,3,735,2023-04-20,2205
+Seattle,Tablet,2,1166,2023-04-21,2332
+New York,Tablet,4,497,2023-04-22,1988
+San Francisco,Phone,3,865,2023-04-23,2595
+New York,Laptop,1,869,2023-04-24,869
+San Francisco,Phone,3,728,2023-04-25,2184
+New York,Laptop,3,716,2023-04-26,2148
+San Francisco,Tablet,4,564,2023-04-27,2256
+Seattle,Phone,2,976,2023-04-28,1952
+New York,Monitor,4,453,2023-04-29,1812
+Seattle,Laptop,3,794,2023-04-30,2382
+Boston,Laptop,1,447,2023-05-01,447
+Seattle,Phone,1,569,2023-05-02,569
+New York,Tablet,3,603,2023-05-03,1809
+San Francisco,Monitor,2,769,2023-05-04,1538
+Boston,Laptop,2,1176,2023-05-05,2352
+Boston,Phone,2,1039,2023-05-06,2078
+Boston,Monitor,3,375,2023-05-07,1125
+Boston,Phone,1,386,2023-05-08,386
+Boston,Laptop,1,539,2023-05-09,539
+New York,Monitor,4,791,2023-05-10,3164
+San Francisco,Tablet,1,924,2023-05-11,924
+New York,Laptop,3,644,2023-05-12,1932
+New York,Tablet,3,641,2023-05-13,1923
+Boston,Monitor,4,534,2023-05-14,2136
+New York,Phone,3,438,2023-05-15,1314
+Seattle,Phone,1,588,2023-05-16,588
+Seattle,Phone,4,443,2023-05-17,1772
+Seattle,Tablet,2,1152,2023-05-18,2304
+San Francisco,Laptop,1,694,2023-05-19,694
+New York,Monitor,2,341,2023-05-20,682
+Boston,Monitor,3,1118,2023-05-21,3354
+Seattle,Laptop,4,1052,2023-05-22,4208
+San Francisco,Tablet,3,624,2023-05-23,1872
+Seattle,Phone,4,759,2023-05-24,3036
+Boston,Monitor,1,393,2023-05-25,393
+Seattle,Laptop,4,919,2023-05-26,3676
+Boston,Laptop,2,908,2023-05-27,1816
+Boston,Tablet,4,811,2023-05-28,3244
+Seattle,Phone,3,885,2023-05-29,2655
+New York,Tablet,4,321,2023-05-30,1284
+New York,Phone,2,1182,2023-05-31,2364
+Seattle,Phone,2,375,2023-06-01,750
+San Francisco,Laptop,4,1008,2023-06-02,4032
+New York,Laptop,1,788,2023-06-03,788
+Boston,Phone,1,863,2023-06-04,863
+San Francisco,Laptop,4,497,2023-06-05,1988
+New York,Phone,1,662,2023-06-06,662
+Seattle,Tablet,2,1032,2023-06-07,2064
+Boston,Phone,4,459,2023-06-08,1836
+San Francisco,Phone,3,620,2023-06-09,1860
+New York,Monitor,2,611,2023-06-10,1222
+New York,Phone,2,331,2023-06-11,662
+Boston,Laptop,4,906,2023-06-12,3624
+Boston,Phone,4,344,2023-06-13,1376
+Boston,Laptop,2,507,2023-06-14,1014
+San Francisco,Phone,1,936,2023-06-15,936
+Seattle,Laptop,2,1048,2023-06-16,2096
+San Francisco,Laptop,3,769,2023-06-17,2307
+Seattle,Monitor,3,873,2023-06-18,2619
+San Francisco,Laptop,2,633,2023-06-19,1266
+San Francisco,Phone,2,740,2023-06-20,1480
+Boston,Phone,3,717,2023-06-21,2151
+New York,Laptop,3,1132,2023-06-22,3396
+New York,Laptop,1,767,2023-06-23,767
+San Francisco,Laptop,3,969,2023-06-24,2907
+San Francisco,Tablet,1,1095,2023-06-25,1095
+San Francisco,Phone,4,647,2023-06-26,2588
+New York,Tablet,3,893,2023-06-27,2679
+Seattle,Monitor,1,723,2023-06-28,723
+New York,Tablet,4,720,2023-06-29,2880
+Boston,Tablet,2,1073,2023-06-30,2146
+New York,Tablet,4,1174,2023-07-01,4696
+Boston,Monitor,1,892,2023-07-02,892
+San Francisco,Phone,4,1116,2023-07-03,4464
+San Francisco,Tablet,1,901,2023-07-04,901
+Seattle,Tablet,2,516,2023-07-05,1032
+Seattle,Monitor,3,549,2023-07-06,1647
+Boston,Phone,1,1109,2023-07-07,1109
+New York,Phone,2,735,2023-07-08,1470
+Seattle,Tablet,1,984,2023-07-09,984
+New York,Phone,3,447,2023-07-10,1341
+San Francisco,Tablet,4,602,2023-07-11,2408
+Seattle,Monitor,1,432,2023-07-12,432
+Boston,Tablet,1,473,2023-07-13,473
+New York,Laptop,4,1108,2023-07-14,4432
+Boston,Tablet,4,718,2023-07-15,2872
+San Francisco,Phone,1,1108,2023-07-16,1108
+New York,Tablet,3,677,2023-07-17,2031
+Seattle,Tablet,1,310,2023-07-18,310
+San Francisco,Laptop,1,1004,2023-07-19,1004
+San Francisco,Monitor,3,887,2023-07-20,2661
+Boston,Laptop,4,1162,2023-07-21,4648
+Boston,Tablet,3,1060,2023-07-22,3180
+Seattle,Laptop,2,1034,2023-07-23,2068
+Boston,Tablet,2,1121,2023-07-24,2242
+Seattle,Phone,1,1128,2023-07-25,1128
+Seattle,Tablet,1,797,2023-07-26,797
+Boston,Laptop,2,1038,2023-07-27,2076
+New York,Tablet,1,305,2023-07-28,305
+Boston,Monitor,2,873,2023-07-29,1746
+San Francisco,Phone,2,448,2023-07-30,896
+Boston,Monitor,2,673,2023-07-31,1346
+New York,Tablet,1,531,2023-08-01,531
+San Francisco,Tablet,2,648,2023-08-02,1296
+San Francisco,Monitor,4,490,2023-08-03,1960
+New York,Monitor,1,762,2023-08-04,762
+Boston,Phone,3,1174,2023-08-05,3522
+San Francisco,Laptop,4,912,2023-08-06,3648
+New York,Laptop,4,750,2023-08-07,3000
+San Francisco,Monitor,4,1113,2023-08-08,4452
+San Francisco,Laptop,4,1019,2023-08-09,4076
+New York,Phone,3,983,2023-08-10,2949
+Seattle,Phone,4,569,2023-08-11,2276
+New York,Monitor,1,1134,2023-08-12,1134
+New York,Laptop,4,318,2023-08-13,1272
+San Francisco,Laptop,4,1162,2023-08-14,4648
+San Francisco,Tablet,1,929,2023-08-15,929
+Seattle,Monitor,3,1126,2023-08-16,3378
+San Francisco,Laptop,4,873,2023-08-17,3492
+New York,Monitor,1,1199,2023-08-18,1199
+San Francisco,Monitor,4,840,2023-08-19,3360
+Seattle,Tablet,1,794,2023-08-20,794
+New York,Monitor,1,539,2023-08-21,539
+New York,Monitor,4,536,2023-08-22,2144
+San Francisco,Laptop,2,672,2023-08-23,1344
+Boston,Monitor,2,1043,2023-08-24,2086
+New York,Tablet,3,512,2023-08-25,1536
+Seattle,Tablet,3,1081,2023-08-26,3243
+Seattle,Laptop,1,913,2023-08-27,913
+Seattle,Laptop,4,530,2023-08-28,2120
+Seattle,Tablet,3,1136,2023-08-29,3408
+New York,Monitor,2,1122,2023-08-30,2244
+Boston,Phone,1,521,2023-08-31,521
+Boston,Phone,3,1048,2023-09-01,3144
+Boston,Phone,2,526,2023-09-02,1052
+Seattle,Laptop,3,690,2023-09-03,2070
+Boston,Monitor,3,757,2023-09-04,2271
+New York,Phone,3,758,2023-09-05,2274
+San Francisco,Phone,4,621,2023-09-06,2484
+San Francisco,Laptop,2,527,2023-09-07,1054
+Seattle,Phone,4,472,2023-09-08,1888
+New York,Laptop,4,1049,2023-09-09,4196
+Seattle,Monitor,1,1066,2023-09-10,1066
+New York,Monitor,4,401,2023-09-11,1604
+San Francisco,Laptop,4,950,2023-09-12,3800
+Seattle,Monitor,2,893,2023-09-13,1786
+Boston,Tablet,1,571,2023-09-14,571
+New York,Monitor,4,1176,2023-09-15,4704
+San Francisco,Tablet,1,921,2023-09-16,921
+Seattle,Phone,2,1156,2023-09-17,2312
+Seattle,Tablet,2,1026,2023-09-18,2052
+Seattle,Tablet,2,753,2023-09-19,1506
+Seattle,Tablet,3,1083,2023-09-20,3249
+New York,Tablet,2,964,2023-09-21,1928
+Boston,Phone,4,836,2023-09-22,3344
+New York,Tablet,2,869,2023-09-23,1738
+San Francisco,Laptop,4,595,2023-09-24,2380
+Boston,Laptop,1,872,2023-09-25,872
+New York,Phone,2,667,2023-09-26,1334
+Seattle,Tablet,2,401,2023-09-27,802
+New York,Laptop,4,449,2023-09-28,1796
+San Francisco,Phone,1,954,2023-09-29,954
+New York,Tablet,4,364,2023-09-30,1456
+San Francisco,Laptop,1,1000,2023-10-01,1000
+Boston,Tablet,1,760,2023-10-02,760
+Boston,Phone,4,327,2023-10-03,1308
+New York,Phone,4,963,2023-10-04,3852
+Seattle,Monitor,1,735,2023-10-05,735
+Boston,Tablet,4,1043,2023-10-06,4172
+Boston,Laptop,4,347,2023-10-07,1388
+Boston,Monitor,4,1036,2023-10-08,4144
+New York,Laptop,4,893,2023-10-09,3572
+Seattle,Tablet,3,416,2023-10-10,1248
+San Francisco,Monitor,2,845,2023-10-11,1690
+San Francisco,Monitor,2,887,2023-10-12,1774
+San Francisco,Monitor,1,1185,2023-10-13,1185
+Boston,Tablet,1,479,2023-10-14,479
+San Francisco,Laptop,4,1063,2023-10-15,4252
+New York,Laptop,1,489,2023-10-16,489
+Boston,Laptop,1,460,2023-10-17,460
+Seattle,Laptop,3,569,2023-10-18,1707
+New York,Tablet,1,1019,2023-10-19,1019
+Boston,Laptop,1,306,2023-10-20,306
+San Francisco,Tablet,3,1149,2023-10-21,3447
+New York,Laptop,1,869,2023-10-22,869
+Boston,Monitor,1,989,2023-10-23,989
+Seattle,Laptop,2,954,2023-10-24,1908
+New York,Laptop,4,980,2023-10-25,3920
+New York,Laptop,1,873,2023-10-26,873
+San Francisco,Monitor,3,646,2023-10-27,1938
+New York,Monitor,3,872,2023-10-28,2616
+Boston,Phone,1,782,2023-10-29,782
+Seattle,Monitor,2,612,2023-10-30,1224
+Seattle,Laptop,2,707,2023-10-31,1414
+Seattle,Monitor,3,532,2023-11-01,1596
+Boston,Laptop,3,1061,2023-11-02,3183
+San Francisco,Tablet,3,673,2023-11-03,2019
+Seattle,Monitor,1,759,2023-11-04,759
+Boston,Phone,2,915,2023-11-05,1830
+Seattle,Tablet,1,583,2023-11-06,583
+Seattle,Monitor,1,586,2023-11-07,586
+Seattle,Laptop,4,653,2023-11-08,2612
+New York,Monitor,3,967,2023-11-09,2901
+New York,Laptop,3,1143,2023-11-10,3429
+San Francisco,Monitor,4,702,2023-11-11,2808
+Seattle,Phone,4,1017,2023-11-12,4068
+Seattle,Monitor,4,455,2023-11-13,1820
+San Francisco,Monitor,3,830,2023-11-14,2490
+Seattle,Monitor,1,916,2023-11-15,916
+Seattle,Laptop,2,804,2023-11-16,1608
+Seattle,Laptop,4,488,2023-11-17,1952
+New York,Tablet,2,339,2023-11-18,678
+Boston,Tablet,2,978,2023-11-19,1956
+Seattle,Phone,3,643,2023-11-20,1929
+New York,Monitor,1,580,2023-11-21,580
+New York,Monitor,2,884,2023-11-22,1768
+Seattle,Monitor,2,524,2023-11-23,1048
+Seattle,Monitor,2,630,2023-11-24,1260
+Boston,Monitor,3,363,2023-11-25,1089
+San Francisco,Tablet,4,950,2023-11-26,3800
+San Francisco,Tablet,1,632,2023-11-27,632
+Boston,Laptop,1,1075,2023-11-28,1075
+New York,Tablet,3,473,2023-11-29,1419
+San Francisco,Laptop,4,971,2023-11-30,3884
+Seattle,Phone,1,588,2023-12-01,588
+Seattle,Monitor,1,520,2023-12-02,520
+Boston,Laptop,3,322,2023-12-03,966
+Boston,Monitor,4,505,2023-12-04,2020
+San Francisco,Tablet,2,857,2023-12-05,1714
+New York,Phone,1,722,2023-12-06,722
+San Francisco,Monitor,2,1094,2023-12-07,2188
+Seattle,Tablet,3,1072,2023-12-08,3216
+New York,Tablet,3,1189,2023-12-09,3567
+Boston,Monitor,3,1110,2023-12-10,3330
+Boston,Tablet,3,757,2023-12-11,2271
+New York,Phone,3,855,2023-12-12,2565
+New York,Phone,2,998,2023-12-13,1996
+Seattle,Tablet,1,497,2023-12-14,497
+San Francisco,Monitor,1,852,2023-12-15,852
+Boston,Laptop,2,556,2023-12-16,1112
+Boston,Monitor,3,884,2023-12-17,2652
+Seattle,Phone,4,438,2023-12-18,1752
+San Francisco,Phone,4,1110,2023-12-19,4440
+San Francisco,Phone,4,478,2023-12-20,1912
+San Francisco,Phone,4,965,2023-12-21,3860
+Seattle,Phone,4,603,2023-12-22,2412
+New York,Monitor,4,863,2023-12-23,3452
+New York,Tablet,2,410,2023-12-24,820
+Boston,Phone,4,405,2023-12-25,1620
+Boston,Monitor,4,984,2023-12-26,3936
+San Francisco,Phone,1,460,2023-12-27,460
+New York,Laptop,3,1036,2023-12-28,3108
+New York,Monitor,1,658,2023-12-29,658
+Seattle,Phone,1,956,2023-12-30,956
+Seattle,Phone,2,1080,2023-12-31,2160
+San Francisco,Tablet,1,828,2024-01-01,828
+San Francisco,Tablet,1,496,2024-01-02,496
+New York,Laptop,1,460,2024-01-03,460
+New York,Laptop,4,526,2024-01-04,2104
+Seattle,Phone,1,484,2024-01-05,484
+Boston,Laptop,4,422,2024-01-06,1688
+Seattle,Laptop,4,758,2024-01-07,3032
+New York,Phone,1,1147,2024-01-08,1147
+San Francisco,Monitor,4,1128,2024-01-09,4512
+New York,Monitor,1,899,2024-01-10,899
+Boston,Tablet,4,1133,2024-01-11,4532
+San Francisco,Tablet,1,381,2024-01-12,381
+San Francisco,Laptop,3,1102,2024-01-13,3306
+Boston,Laptop,3,481,2024-01-14,1443
+Boston,Laptop,3,580,2024-01-15,1740
+San Francisco,Laptop,1,901,2024-01-16,901
+Boston,Laptop,1,366,2024-01-17,366
+Boston,Phone,2,1152,2024-01-18,2304
+Seattle,Laptop,4,334,2024-01-19,1336
+Boston,Monitor,1,661,2024-01-20,661
+Boston,Laptop,1,605,2024-01-21,605
+New York,Laptop,3,421,2024-01-22,1263
+New York,Phone,3,1010,2024-01-23,3030
+San Francisco,Tablet,3,1042,2024-01-24,3126
+Seattle,Laptop,1,665,2024-01-25,665
+San Francisco,Phone,3,573,2024-01-26,1719
+Boston,Laptop,1,377,2024-01-27,377
+Boston,Laptop,2,892,2024-01-28,1784
+Seattle,Laptop,1,1139,2024-01-29,1139
+Seattle,Monitor,2,1170,2024-01-30,2340
+San Francisco,Phone,3,791,2024-01-31,2373
+Seattle,Laptop,4,899,2024-02-01,3596
+Seattle,Tablet,4,364,2024-02-02,1456
+Seattle,Tablet,2,1035,2024-02-03,2070
+San Francisco,Phone,4,832,2024-02-04,3328
+San Francisco,Phone,2,1085,2024-02-05,2170
+New York,Tablet,1,337,2024-02-06,337
+Seattle,Laptop,2,958,2024-02-07,1916
+Seattle,Tablet,4,678,2024-02-08,2712
+New York,Tablet,1,1165,2024-02-09,1165
+New York,Phone,1,810,2024-02-10,810
+Seattle,Tablet,2,646,2024-02-11,1292
+San Francisco,Tablet,2,758,2024-02-12,1516
+Boston,Tablet,4,690,2024-02-13,2760
+Boston,Monitor,4,621,2024-02-14,2484
+Boston,Laptop,1,774,2024-02-15,774
+New York,Phone,2,1115,2024-02-16,2230
+Boston,Laptop,2,965,2024-02-17,1930
+Boston,Tablet,2,525,2024-02-18,1050
+Seattle,Phone,1,812,2024-02-19,812
+New York,Monitor,4,650,2024-02-20,2600
+New York,Monitor,2,1107,2024-02-21,2214
+San Francisco,Phone,1,922,2024-02-22,922
+Seattle,Monitor,1,896,2024-02-23,896
+Boston,Tablet,1,943,2024-02-24,943
+Seattle,Tablet,2,643,2024-02-25,1286
+Boston,Monitor,2,1198,2024-02-26,2396
+Boston,Laptop,4,392,2024-02-27,1568
+San Francisco,Phone,1,657,2024-02-28,657
+Boston,Monitor,3,354,2024-02-29,1062
+Boston,Tablet,3,667,2024-03-01,2001
+Boston,Laptop,1,614,2024-03-02,614
+New York,Laptop,1,871,2024-03-03,871
+San Francisco,Monitor,4,1130,2024-03-04,4520
+Seattle,Laptop,1,1161,2024-03-05,1161
+Boston,Laptop,2,498,2024-03-06,996
+New York,Monitor,3,435,2024-03-07,1305
+Seattle,Phone,2,761,2024-03-08,1522
+New York,Tablet,1,1162,2024-03-09,1162
+Seattle,Laptop,2,723,2024-03-10,1446
+Boston,Phone,4,1111,2024-03-11,4444
+Seattle,Phone,2,1091,2024-03-12,2182
+Seattle,Laptop,2,571,2024-03-13,1142
+New York,Phone,1,571,2024-03-14,571
+Boston,Tablet,3,374,2024-03-15,1122
+San Francisco,Monitor,1,711,2024-03-16,711
+San Francisco,Tablet,2,1148,2024-03-17,2296
+Seattle,Monitor,1,617,2024-03-18,617
+Boston,Tablet,3,750,2024-03-19,2250
+San Francisco,Tablet,1,342,2024-03-20,342
+Seattle,Tablet,3,308,2024-03-21,924
+San Francisco,Laptop,3,745,2024-03-22,2235
+San Francisco,Monitor,4,389,2024-03-23,1556
+San Francisco,Monitor,4,580,2024-03-24,2320
+Boston,Monitor,1,1105,2024-03-25,1105
+San Francisco,Laptop,3,1194,2024-03-26,3582
+San Francisco,Laptop,2,848,2024-03-27,1696
+Boston,Tablet,2,1172,2024-03-28,2344
+Boston,Laptop,1,1088,2024-03-29,1088
+Seattle,Phone,4,1099,2024-03-30,4396
+San Francisco,Phone,4,1158,2024-03-31,4632
+Seattle,Laptop,3,1070,2024-04-01,3210
+New York,Laptop,2,1088,2024-04-02,2176
+Boston,Phone,3,798,2024-04-03,2394
+New York,Monitor,2,989,2024-04-04,1978
+New York,Laptop,1,877,2024-04-05,877
+New York,Laptop,4,488,2024-04-06,1952
+New York,Monitor,4,820,2024-04-07,3280
+San Francisco,Monitor,2,1036,2024-04-08,2072
+San Francisco,Monitor,3,1079,2024-04-09,3237
+New York,Tablet,4,944,2024-04-10,3776
+Boston,Laptop,2,606,2024-04-11,1212
+Boston,Laptop,4,398,2024-04-12,1592
+Boston,Tablet,1,1132,2024-04-13,1132
+Seattle,Tablet,2,573,2024-04-14,1146
+San Francisco,Phone,3,980,2024-04-15,2940
+New York,Monitor,1,350,2024-04-16,350
+Seattle,Tablet,2,430,2024-04-17,860
+Seattle,Tablet,4,722,2024-04-18,2888
+New York,Laptop,4,680,2024-04-19,2720
+New York,Laptop,3,392,2024-04-20,1176
+Boston,Phone,3,1194,2024-04-21,3582
+San Francisco,Monitor,4,398,2024-04-22,1592
+Seattle,Laptop,3,722,2024-04-23,2166
+New York,Laptop,1,1180,2024-04-24,1180
+New York,Monitor,2,883,2024-04-25,1766
+New York,Phone,1,443,2024-04-26,443
+New York,Phone,2,1101,2024-04-27,2202
+Seattle,Laptop,2,1175,2024-04-28,2350
+San Francisco,Laptop,1,1138,2024-04-29,1138
+New York,Tablet,1,660,2024-04-30,660
+San Francisco,Monitor,4,665,2024-05-01,2660
+San Francisco,Laptop,1,457,2024-05-02,457
+Boston,Tablet,1,1154,2024-05-03,1154
+New York,Tablet,4,813,2024-05-04,3252
+Boston,Tablet,4,1149,2024-05-05,4596
+Boston,Monitor,2,362,2024-05-06,724
+Boston,Tablet,2,363,2024-05-07,726
+Boston,Monitor,4,572,2024-05-08,2288
+San Francisco,Tablet,2,689,2024-05-09,1378
+Boston,Phone,1,856,2024-05-10,856
+Boston,Monitor,3,1094,2024-05-11,3282
+San Francisco,Phone,2,649,2024-05-12,1298
+San Francisco,Phone,3,621,2024-05-13,1863
+Boston,Phone,3,643,2024-05-14,1929
